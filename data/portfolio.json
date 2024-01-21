@@ -24,13 +24,20 @@
   "projects": [
     {
       "id": "1",
+      "title": "Lakecorp Website",
+      "description": "Contracting work for the Lake Oswego Corporation",
+      "imageSrc": "/images/maintenanceRequest.png",
+      "url": "https://registration.lakecorp.com/maintenanceRequest"
+    },
+    {
+      "id": "2",
       "title": "ACME WEB STORE",
       "description": "Fllstack accedemy project",
       "imageSrc": "/images/a.png",
       "url": "https://github.com/StonefortSolutions/acme-web-store"
     },
     {
-      "id": "2",
+      "id": "3",
       "title": "Floor Planner",
       "description": "A fun website for building floor plans",
       "imageSrc": "/images/b.png",
